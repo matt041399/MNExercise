@@ -1,1 +1,1 @@
-# MNExerci
+# MNExercise
